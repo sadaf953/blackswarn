@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/blackswarn/static/js/main.ccfd23a0.js",
+    "index.html": "/blackswarn/index.html",
+    "main.ccfd23a0.js.map": "/blackswarn/static/js/main.ccfd23a0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ccfd23a0.js"
+  ]
+}
